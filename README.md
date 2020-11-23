@@ -2,6 +2,5 @@
 
 Solutions for https://projecteuler.net/
 
-1 - 10 : Done
-
-11 - 20 : Todo
+* Done:  1 - 50
+* Todo: 51 - 719
